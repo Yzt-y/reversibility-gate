@@ -1,0 +1,6 @@
+- insert:
+    - id: reversibility-gate
+      name: 'dsh-reversibility-gate'
+      config:
+        trustThreshold: 3
+        auditFile: .dsh-reversibility/audit.jsonl
